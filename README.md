@@ -6,4 +6,4 @@ free available contorl panel like a whmcs
 
 # Setup 
 
-edit ns_config.php
+fill details config.php
