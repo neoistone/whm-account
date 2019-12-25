@@ -17,4 +17,4 @@ $db_password = "db password"; // database password
 $Host = 'mail.smtp2go.com'; // smtp hostname
 $smtp_Username = 'mail infromation'; // smtp username  for auth
 $smtp_Password = 'password'; // smtp passwoord for auth
-$smtp_Port = "smtp port"; // smtp port
+$smtp_Port = "smtp port"; // smtp por
