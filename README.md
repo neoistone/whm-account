@@ -2,7 +2,7 @@
 
 Code writed by neoistone.com
 
-free available contorl panel like a whmcs
+free available contorl panel like a whmcs future avabile
 
 # Setup 
 
